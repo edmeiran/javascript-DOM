@@ -12,7 +12,7 @@ It is hiden again, because the comand refresh, everytime, page is loaded/ refres
 
 > Remove `window.addEventListener("load", function(){` (and the closing `})`) from **global.js**. Does the link still reveal the text? What is the purpose of this code that you've removed?
 
-No, it doeasn't, it makes sure you can actaully use the function, so the code would work.
+No, it doeasn't, it makes sure you can actaully use the function, so that specific line of code would work.
 
 ---
 
