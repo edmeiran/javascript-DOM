@@ -16,6 +16,6 @@ No, it doeasn't, it makes sure you can actaully use the function, so that specif
 
 ---
 
-> Describe the the `addEventListener` method. (Remember that there is a specific, technical, methodical way to describe methods. Your reply should match that format.)
+> Describe the the `addEventListener` method. (Remember that there is a specific, technical, methodical way to describe methods. Your reply should match that format.) 
 
 The addEventListener() method attaches an event handler to an element without overwriting existing event handlers. You can add many event handlers to one element. 
